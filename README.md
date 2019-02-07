@@ -1,2 +1,2 @@
 # my.zsh
-my .zshrc cfg
+My `.zshrc` config.
